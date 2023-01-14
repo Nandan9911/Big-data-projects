@@ -28,3 +28,22 @@ https://drive.google.com/file/d/10TLQxUn1ndkUcfeHRNVcB_JZtd_c-mxw/view?usp=share
 
 1. Which player scored the highest number of centuries?
 2. In which year did Indian players score the maximum number of centuries?
+
+# Hadoop Project - 2
+
+# Here, we have chosen the stock market dataset (NYSE.csv) on which we have performed map-reduce operations. Following is the structure of the data. Kindly find the solutions to the questions below. 
+
+Data Structure 
+1. Exchange Name 
+2 Stock symbol 
+3. Transaction date 
+4. Opening price of the stock 
+5. Intra day high price of the stock 
+6. Intra day low price of the stock 
+7. Closing price of the stock 
+8. Total Volume of the stock on the particular day 
+9. Adjustment Closing price of the stock
+Field Separator – comma 
+
+# Find all time High price for each stock
+
