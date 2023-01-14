@@ -1,4 +1,4 @@
-# Hadoop project
+# Hadoop project - 1 (Q1,Q2,Q3)
 
 # MapReduce project on Shakespeare data
 
