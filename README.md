@@ -1,14 +1,14 @@
 # Hadoop project
 
-#MapReduce project on Shakespeare data
+# MapReduce project on Shakespeare data
 
 DATA SET: https://de-mapreduce-gutenberg.s3.amazonaws.com/100-0.txt
 
-Which word has the highest frequency of occurrence in the document?
-What is the frequency of occurrence of the word ‘Romeo’? (Ignore cases and don't
-remove punctuation marks from any words.)
-What is the frequency of the phrase "circumference." in the data set? (You do not
-need to remove the punctuation marks from the words.)
+1. Which word has the highest frequency of occurrence in the document?
+2. What is the frequency of occurrence of the word ‘Romeo’? (Ignore cases and don't
+   remove punctuation marks from any words.)
+3. What is the frequency of the phrase "circumference." in the data set? (You do not
+   need to remove the punctuation marks from the words.)
 
 # MapReduce on Airports data
 
@@ -17,11 +17,10 @@ https://drive.google.com/file/d/1DpfofGJbMeB4ZIh6wM54nYoeHQUjH3uL/view?usp=sh
 are_link
 
 1. Count the number of unique ordered pairs of origin and destination (Origin,
-Destination) present in the dataset, i.e., for two flights, either the origin or the destination
-differs.
-
+   Destination) present in the dataset, i.e., for two flights, either the origin or the destination
+   differs.
 2. What is the airport code and the number of flights corresponding to that airport, with
-the maximum number of outgoing flights in the year 2004?
+   the maximum number of outgoing flights in the year 2004?
 
 # MapReduce on Cricket data
 
